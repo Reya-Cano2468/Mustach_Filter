@@ -7,11 +7,12 @@ body{
 
 #header{
     font-family: 'Courgette', cursive;
-    color:#5a5a5a;
+    color:azure;
 }
 
 
-.btn-grad {background-image: linear-gradient(to right, #ED4264 0%, #FFEDBC  51%, #ED4264  100%)}
+
+.btn-grad {background-image: linear-gradient(to right, #000046 0%, #1CB5E0  51%, #000046  100%)}
 .btn-grad {
    margin: 10px;
    padding: 15px 45px;
@@ -32,7 +33,9 @@ body{
  }
 
 
- .btn-grad2 {background-image: linear-gradient(to right, #FFAFBD 0%, #ffc3a0  51%, #FFAFBD  100%)}
+
+
+ .btn-grad2 {background-image: linear-gradient(to right, #B2FEFA 0%, #0ED2F7  51%, #B2FEFA  100%)}
  .btn-grad2 {
     margin: 10px;
     padding: 15px 45px;
@@ -51,4 +54,5 @@ body{
     color: #fff;
     text-decoration: none;
   }
+ 
  

@@ -32,6 +32,6 @@ function draw() {
 }
 //------------------------
 //------------------------
-function take_snapshot(){
-    save('Pic.png')
+function take_snapshot() {
+    save('myPic.png');
 }
